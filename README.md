@@ -1,10 +1,11 @@
 # 📊 Financial Data Trends Analysis (Apple Stock – AAPL)
-📌 Project Overview
+**📌 Project Overview**
 
 This project analyzes long-term financial trends in Apple Inc. (AAPL) stock prices using historical market data.
 The goal is to understand price movement, trend behavior, and time-based patterns to support better business or investment decisions.
 
-🎯 Objective
+
+🎯 **Objective**
 
 Analyze stock price trends over time
 
@@ -14,7 +15,10 @@ Observe month-on-month movement patterns
 
 Use moving averages to smooth short-term fluctuations
 
-📂 Dataset
+
+
+**📂 Dataset **
+
 
 Source: Yahoo Finance
 
@@ -28,7 +32,10 @@ Open, High, Low, Close prices
 
 Volume
 
-🛠 Tools & Libraries Used
+
+
+**🛠 Tools & Libraries Used**
+
 
 Python
 
@@ -36,7 +43,9 @@ Pandas
 
 Matplotlib
 
-📈 Analysis Performed
+
+
+**📈 Analysis Performed**
 
 Closing Price Trend Over Time
 
@@ -50,7 +59,9 @@ Month-on-Month Average Closing Price
 
 Highlights gradual growth patterns and long-term momentum.
 
-🔍 Key Insights
+
+**🔍 Key Insights**
+
 
 Apple stock shows strong long-term upward growth.
 
@@ -60,11 +71,16 @@ Moving averages confirm sustained bullish behavior over time.
 
 Monthly analysis reveals consistent growth phases with periodic corrections.
 
-📁 Project Structure
+
+
+**📁 Project Structure**
+
 ├── AAPL.csv
 ├── Financial_Data_Trends.ipynb
 └── README.md
 
-🚀 Conclusion
+
+**🚀 Conclusion**
+
 
 This project demonstrates how time-series analysis and visualization techniques can be used to extract meaningful insights from financial data. Such analysis is useful for trend identification, investment research, and business forecasting.
